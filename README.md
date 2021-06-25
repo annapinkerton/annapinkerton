@@ -23,9 +23,10 @@ You can provide multiple comma-separated values in bg_color option to render a g
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=annapinkerton&hide=issues&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/annapinkerton/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapinkerton&layout=compact)](https://github.com/annapinkerton/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=annapinkerton)](https://github.com/annapinkerton/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akpinkerton)](https://github.com/annapinkerton/github-readme-stats)
 
 
 
