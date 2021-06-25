@@ -26,7 +26,7 @@ You can provide multiple comma-separated values in bg_color option to render a g
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapinkerton&layout=compact)](https://github.com/annapinkerton/github-readme-stats)
 
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akpinkerton)](https://github.com/annapinkerton/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akpinkerton)](https://github.com/akpinkerton/github-readme-stats)
 
 
 
